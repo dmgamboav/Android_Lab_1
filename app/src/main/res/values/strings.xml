@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="edit_message">Escriba un mensaje</string>
+    <string name="send_message">Enviar mensaje</string>
+    <string name="welcome_message">Bienvenido a Message Activity</string>
+</resources>
