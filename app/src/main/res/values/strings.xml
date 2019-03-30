@@ -3,4 +3,6 @@
     <string name="edit_message">Escriba un mensaje</string>
     <string name="send_message">Enviar mensaje</string>
     <string name="welcome_message">Bienvenido a Message Activity</string>
+    <string name="final_activity_message">Welcome to Final Activity</string>
+    <string name="final_activity_button">Go to Final Activity</string>
 </resources>
